@@ -1,6 +1,6 @@
-### Hi there 👋
 
-I'm Mateusz Pietkiewicz!
+
+### I'm Mateusz Pietkiewicz  👋
 
 - 🌱 I’m currently learning **Python** and focusing on becoming a **Data Analyst**.
 - 🧠 My goal is to gain hands-on experience with **Data Science Techniques**, **Data Visualization** and **Automation in Data Analysis**.
