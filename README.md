@@ -7,7 +7,8 @@
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: Python, SQL
+- **Python**: Pandas, NumPy, Matplotlib - data cleaning, transformation, visualization, documenting workflows in Jupyter
+- **SQL**: SELECT, JOIN, GROUP BY, WHERE, CTEs, subqueries, window functions
 - **Tools**: PyCharm, Jupyter Notebook, Git, Excel
 
 ### 📫 Connect with me:
